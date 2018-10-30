@@ -12,4 +12,8 @@ Setup a public React repo that you can share with us at the end.
 
 ## Second task
 
-The repo should be able to rend a list of Questions and it's answers. The questions, answers and users that should be used are attached in their respective files.
+The repo should be able to read a list of Questions and it's answers. The questions, answers and users that should be used are attached in their respective files.
+
+## Third task
+
+We changed the styles of the Question and answer, and now we have to render the date and who did the last change in the question. the events are as follows: creation, edition, publish, submission, closing, in that order. We also updated the answers and questions jsons AND the mockup
