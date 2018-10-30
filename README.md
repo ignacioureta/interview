@@ -9,3 +9,7 @@ This is the code challenge and it is intended to do it in peer programming, 10m 
 ## First task
 
 Setup a public React repo that you can share with us at the end.
+
+## Second task
+
+The repo should be able to rend a list of Questions and it's answers. The questions, answers and users that should be used are attached in their respective files.
