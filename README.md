@@ -21,3 +21,13 @@ We changed the styles of the Question and answer, and now we have to render the 
 ## Fourth task
 
 Add a select at the top of the page with all the users. When you select a user, you're "logged in" as that user. I've added the `organization` attribute to the `users`. If the organization of the logged in user doesn't match the one from the user that did an action, you should render the organization name instead of the user name in that question/answer
+
+## Fifth task
+
+Add comments to the system. They should have the same behaviour as the Q&As, but they always display the createdAt attribute. Comments should only be visible for the users of the same organization as the creator.
+
+## Sixth task
+
+Add tests to all the previous.
+
+Note: We're not testing speed, but quality of the code and the use of good practices.
